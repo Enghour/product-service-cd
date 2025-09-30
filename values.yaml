@@ -2,7 +2,7 @@ namespace: product-service
 
 image:
   imageRepository: keanghor31/spring-app01
-  tag: "1.0.3.14"
+  tag: "1.0.15"
 
 service:
   type: LoadBalancer   # 👈 Change this line
